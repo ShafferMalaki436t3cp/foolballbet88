@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+BET88 - Tận hưởng cuộc vui không giới hạn
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`BET88 <https://foolballbet.com/>`_ không chỉ đơn thuần là một nhà cái trực tuyến, mà còn là cánh cửa mở ra một thế giới giải trí sống động và đầy cơ hội. Với slogan “Chơi hết mình, thắng đỉnh cao”, BET88 mang đến trải nghiệm cá cược độc đáo, nơi mọi ván chơi đều là hành trình bùng nổ cảm xúc và chinh phục những phần thưởng giá trị.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Website: https://foolballbet.com/ 
 
-   This project is under active development.
+Địa chỉ: QL26B, Ninh Phước, Ninh Hòa, Khánh Hòa, Việt Nam
 
-Contents
---------
+Phone: 0398877779
 
-.. toctree::
+Email: bet88foolball@gmail.com
 
-   usage
-   api
+#bet88 #thethao88 #bet88casino #bet88trangchu #bet88link#bet88app
